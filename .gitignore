@@ -1,0 +1,15 @@
+# Xcode
+.DS_Store
+build/
+*.xcworkspace
+DerivedData/
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+Packages/
+.build/
+
+# CocoaPods
+Pods/
